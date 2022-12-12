@@ -119,4 +119,14 @@ h5{
     font-size: 20px;
 }
 
-    
+    button{
+        padding: 30px 20px 30px 20px;
+
+        background-color: black;
+        display: inline-block
+        ;
+        vertical-align: middle;
+        text-align: center;
+
+    }
+   
