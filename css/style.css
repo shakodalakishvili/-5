@@ -1,6 +1,11 @@
+
+/* გაკეთდა ჰედერი */
+
 header{
+
     width: 1280px;
     margin: 0 auto;
+    padding-bottom: 66px;
     
 }
 nav{
@@ -12,6 +17,8 @@ ul{
 
 li{
     display: inline-block;
+    vertical-align: middle;
+    padding-top: 44px;
     font-size: 18px;
     color: #7f7f7f;
     padding-right: 102px;
@@ -19,11 +26,69 @@ li{
 h2{
     font-size: 70px;
     display: inline-block;
+    vertical-align: middle;
+    padding-top: 44px;
     padding-right: 104px;
     padding-left: 44px;
     color: #36413e;
+
     
 }
 .search{
     padding-left: 102px;
+    padding-top: 44px;
+    vertical-align: middle;
 }
+
+/* დაიწყო სექშენი */
+
+.section1{
+    width: 1280;
+    height: 779px;
+    margin: 0 auto;
+    background-color: #306b34;
+    padding-top: 66px;
+    
+    
+
+}
+
+.text1{
+    width: 308px;
+    height: 380px;
+    display: inline-block;
+    vertical-align: top;
+  
+
+}
+
+h1{
+    font-size: 40px;
+    color: #36413e;
+    padding-bottom: 50px;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 189px;
+    
+}
+
+p{
+    font-size: 20px;
+    color: aliceblue;
+    font-style: italic;
+    display: inline-block;
+    
+
+}
+.photo2{
+    display: inline-block;
+    padding-top: 174px;
+    padding-left: 85px;
+    padding-right: 174px;
+    padding-bottom: 152px;
+}
+
+
+
+
+    
