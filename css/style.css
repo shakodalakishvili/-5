@@ -130,3 +130,17 @@ h5{
 
     }
    
+    /* დაიწტო ფოოტერი */
+
+    footer{
+        width: 1280px;
+        height: 69px;
+        margin: 0 auto;
+        background-color: #306b34;
+        display: inline-block;
+        vertical-align: middle;
+        text-align: center;
+    }
+    .pfooter{
+        margin-right: 906px;
+    }
