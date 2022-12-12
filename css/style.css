@@ -1,0 +1,29 @@
+header{
+    width: 1280px;
+    margin: 0 auto;
+    
+}
+nav{
+    display: inline-block;
+}
+ul{
+    display: inline-block;
+}
+
+li{
+    display: inline-block;
+    font-size: 18px;
+    color: #7f7f7f;
+    padding-right: 102px;
+}
+h2{
+    font-size: 70px;
+    display: inline-block;
+    padding-right: 104px;
+    padding-left: 44px;
+    color: #36413e;
+    
+}
+.search{
+    padding-left: 102px;
+}
